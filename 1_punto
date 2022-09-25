@@ -1,6 +1,6 @@
 #AHORCADO
 
-#Crear un código que le pida a un usuario que ingrese una palabra
+#Crear un código que le pida a un usuario que ingrese una palabra (EN MINISCULAS)
 #Luego mostrarle al jugador cuantas casillas (letras) tiene esa palabra y que el vaya adivinando
 
 #Se llevará a cabo un contador de oportunidades que tiene el jugador que sería (n+7) donde "n" sea el número total de letras de la palabra 
