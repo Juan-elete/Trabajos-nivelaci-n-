@@ -1,0 +1,20 @@
+#TINDER DE MÚSICOS
+
+#Crear un algoritmo que le permita a un cliente encontrar el músico ideal para la ocasión
+
+#Hacer una clase (musicos) que tenga estas caracteristicas: nombre de la agrupación, (Grupo/solista),
+# genero musical que toca, precio, descripción del producto
+
+#Y que muestre según lo que pida el cliente
+
+#Ej:
+#   Grupo_1 = "Grupo Niche", Grupo, salsa, 500, "un grupo de salsa bien bacano"
+#   Grupo_2 = "Guayacan orquesta", grupo, salsa, 400, "Otro grupo de salsa bien bacano"
+#   Grupo_3 = "Ruben Blades" , solista, salsa, 700, "El mejor cantante del world"
+#   Grupo_4 = "Queen", grupo, rock, 800, "Una banda muy bacana"
+
+#   El cliente quiere un grupo de "salsa" y saber sus precios y descripciones
+#   Entonces se le muestran todos los grupos de salsa y sus precios para que el cliente pueda escoger
+#   Grupo_1 / Grupo_2 / Grupo_3
+
+#Para que el usuario lugo pueda hacer match con su músico favorito
